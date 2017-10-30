@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Список продуктов</string>
+
+    <!--Util-->
+    <string name="msg_network_connection_error">Нет соединения с интернетом</string>
+    <string name="msg_navigation_drawer_open">Open navigation drawer</string>
+    <string name="msg_navigation_drawer_close">Close navigation drawer</string>
+    <string name="msg_some_error">Что-то пошло не так. Пожалуйста, попробуйте еще раз</string>
+
+
+    <!--AuthActivity-->
+    <string name="text_authActivity_sign_btn">Войти</string>
+    <string name="msg_authActivity_error_mail_edt">Введите Эл. адрес</string>
+    <string name="msg_authActivity_error_pass_edt">Введите пароль</string>
+    <string name="hint_authActivity_title_auth_email">Эл. адрес</string>
+    <string name="hint_authActivity_title_auth_pass">Пароль</string>
+
+
+    <!--Navigation drawer menu items-->
+    <string name="text_product_list">Список продуктов</string>
+    <string name="text_logout">Выйти</string>
+    <string name="text_favorite">Избранные </string>
+
+
+    <!--Add product activity-->
+    <string name="text_add_product_name">Добавить продукт</string>
+    <string name="text_add_product_add_product_activity_add_btn">Добавить</string>
+    <string name="text_add_product_activity_name">Имя</string>
+    <string name="text_add_product_activity_price">Цена</string>
+    <string name="text_add_product_activity_desc">Описание</string>
+
+
+    <!--Notification-->
+    <string name="text_notification_added_product">Добавлен новый продукт</string>
+
+
+    <!--Delete Product Dialog-->
+    <string name="text_delete_product_no">Нет</string>
+    <string name="text_delete_product_yes">Да</string>
+    <string name="msg_delete_product">Удалить выбранный элемент?</string>
+
+    <!--Menu-->
+    <string name="id_menu_edit">Edit</string>
+    <string name="id_menu_done">Done</string>
+    <string name="id_menu_unFavorite">Unfavorite</string>
+    <string name="id_menu_favorite">Favorite</string>
+
+</resources>

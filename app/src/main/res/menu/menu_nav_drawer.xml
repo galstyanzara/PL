@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_product_list"
+            android:icon="@drawable/ic_drawer_arrow"
+            android:title="@string/text_product_list" />
+        <item
+            android:id="@+id/nav_fv_list"
+            android:icon="@drawable/ic_drawer_arrow"
+            android:title="@string/text_favorite" />
+
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_drawer_arrow"
+            android:title="@string/text_logout"/>
+
+
+    </group>
+
+</menu>

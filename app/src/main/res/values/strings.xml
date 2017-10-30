@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Product List</string>
+
+    <!--Util-->
+    <string name="msg_network_connection_error">No Internet connection</string>
+    <string name="msg_navigation_drawer_open">Open navigation drawer</string>
+    <string name="msg_navigation_drawer_close">Close navigation drawer</string>
+    <string name="msg_some_error">Something went wrong, please try again</string>
+
+
+    <!--AuthActivity-->
+    <string name="text_authActivity_sign_btn">Login</string>
+    <string name="msg_authActivity_error_mail_edt">Enter email</string>
+    <string name="msg_authActivity_error_pass_edt">Enter password</string>
+    <string name="hint_authActivity_title_auth_email">Email</string>
+    <string name="hint_authActivity_title_auth_pass">Password</string>
+
+
+    <!--Navigation drawer menu items-->
+    <string name="text_product_list">Product List</string>
+    <string name="text_about">About</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_product_vp">Product viewPager</string>
+    <string name="text_favorite">Favorite</string>
+
+
+    <!--Add product activity-->
+    <string name="text_add_product_name">Add Product</string>
+    <string name="text_add_product_add_product_activity_add_btn">add</string>
+    <string name="text_add_product_activity_name">Name</string>
+    <string name="text_add_product_activity_price">Price</string>
+    <string name="text_add_product_activity_desc">Description</string>
+
+
+    <!--Notification-->
+    <string name="text_notification_added_product">Added new product</string>
+
+
+    <!--Delete Product Dialog-->
+    <string name="text_delete_product_no">No</string>
+    <string name="text_delete_product_yes">Yes</string>
+    <string name="msg_delete_product">Delete selected item?</string>
+
+    <!--Menu-->
+    <string name="id_menu_edit">Edit</string>
+    <string name="id_menu_done">Done</string>
+    <string name="id_menu_unFavorite">Unfavorite</string>
+    <string name="id_menu_favorite">Favorite</string>
+
+</resources>
